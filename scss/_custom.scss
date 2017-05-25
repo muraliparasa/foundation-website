@@ -1,1 +1,17 @@
-body{color:#ff0000;}
+body{font-family: arial,sans-serif; }
+blockquote {
+    padding:0; border-left: 1px solid transparent; margin:0;
+}
+blockquote pre {
+    margin: 0;
+    padding: 0;
+    display: grid !important;
+}
+.pop-left{border-right: 1px solid #cacaca;padding:0;}
+code {
+    padding: .125rem .3125rem .0625rem;
+    border-right: 1px solid transparent;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    word-break: normal;
+}
